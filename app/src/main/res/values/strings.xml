@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">İlaç Takip Sistemi</string>
+    <string name="txtKullaniciAdi">Kullanıcı Adı</string>
+    <string name="txtSifre">Şifre</string>
+    <string name="btnGirisYap">Giriş Yap</string>
+    <string name="UyeOl">Üye Ol</string>
+    <string name="SifremiUnuttum">Şifremi Unuttum</string>
+
+
+    <string name="txtIsim">İsim</string>
+    <string name="txtSoyad">Soyisim</string>
+    <string name="txtEmail">E-mail</string>
+    <string name="txtDogumTarihi">Doğum Tarihi</string>
+
+    <string name="btnKaydol">Kaydol</string>
+
+    <string name="txtEskiSifre">Eski şifrenizi giriniz</string>
+    <string name="txtYeniSifre">Yeni şifrenizi giriniz</string>
+    <string name="txtTekrarYeniSifre">Yeni şifrenizi tekrar giriniz</string>
+    <string name="btnKaydet">Kaydet</string>
+
+    <string name="txtYeniUyelik">Yeni Üyelik</string>
+    <string name="txtYeniSifreAl">Yeni Şifre</string>
+    <string name="chBeniHatirla">Beni Hatırla</string>
+
+    <string name="btnDamla">Damla</string>
+    <string name="btnSurup">Şurup</string>
+    <string name="btnSprey">Sprey</string>
+    <string name="btnHap">Hap</string>
+    <string name="btnIgne">İğne</string>
+    <string name="btnKrem">Krem</string>
+
+
+    <string name="txtIlacTuruSec">İlaç Türünü Seçiniz</string>
+
+    <string name="imgDamla">Damla</string>
+    <string name="txtDamlaAdi">İlacın adını giriniz</string>
+    <string name="txtDamlaMl">Kaç ml</string>
+    <string name="txtGundeKacDamla">Günde kaç kere</string>
+    <string name="txtKacarDamla">Her uygulamada kaç damla</string>
+    <string name="btnHatirlatDamla">Hatırlat</string>
+
+
+    <string name="imgSurup">Şurup</string>
+    <string name="txtSurupAdi">İlacın adını giriniz</string>
+    <string name="txtSurupMl">Kaç ml</string>
+    <string name="txtGundeKacSurup">Günde kaç kere</string>
+    <string name="txtKacOlcek">Her kullanımda kaç ml</string>
+    <string name="btnHatirlatSurup">Hatırlat</string>
+
+
+    <string name="imgSprey">Sprey</string>
+    <string name="txtSpreyAdi">İlacın adını giriniz</string>
+    <string name="txtSpreyMl">Kaç ml</string>
+    <string name="txtGundeKacSprey">Günde kaç kere</string>
+    <string name="txtKacFıs">Her kullanımda kaç fıs</string>
+    <string name="btnHatirlatSprey">Hatırlat</string>
+
+
+    <string name="imgHap">Hap</string>
+    <string name="txtHapAdi">İlacın adını giriniz</string>
+    <string name="txtHapAdedi">Toplam hap adedi</string>
+    <string name="txtGundeKacHap">Günde kaç kere</string>
+    <string name="txtKacAdet">Her kullanımda kaç adet</string>
+    <string name="btnHatirlatHap">Hatırlat</string>
+
+    <string name="imgIgne">İğne</string>
+    <string name="txtIgneAdi">İlacın adını giriniz</string>
+    <string name="txtIgneAdedi">Toplam iğne sayısı</string>
+    <string name="txtGundeKacIgne">Günde kaç kere</string>
+    <string name="btnHatirlatIgne">Hatırlat</string>
+
+
+    <string name="imgKrem">Krem</string>
+    <string name="txtKremAdi">İlacın adını giriniz</string>
+    <string name="txtGundeKacKrem">Uygulama günde kaç kere</string>
+    <string name="btnHatirlatKrem">Hatırlat</string>
+
+
+    <string name="actionName">İlaç Takip Sistemi</string>
+    <string name="profil">Profil</string>
+    <string name="cikisYap">Çıkış Yap</string>
+
+
+    <string name="txtProfiliDuzenle">Profili Düzenle</string>
+    <string name="txtEditIsim">İsim</string>
+    <string name="txtEditSoyad">Soyisim</string>
+    <string name="txtEditKullaniciAdi">Kullanıcı Adı</string>
+    <string name="txtEditSifre">Şifre</string>
+    <string name="txtEditEmail">E-mail</string>
+    <string name="txtEditDogumTarihi">Doğum Tarihi</string>
+    <string name="btnEditKaydet">Kaydet</string>
+
+    <string name="imgEditBtn">Edit</string>
+    <string name="imgProfil">Profil</string>
+    <string name="btnHatirlat">Hatırlat</string>
+    <string name="txtIlacAdi">İlaç Adı</string>
+    <string name="txtGundeKacKere">Günde Kaç Kere</string>
+    <string name="txtIlkKullanmaSaati">İlk Kullanım Saati</string>
+
+</resources>
